@@ -1,0 +1,21 @@
+class ComputerElseIf {
+       
+         public static void main(String...args) {
+	   int i = 10;
+	        
+      InputStreamReader isr = new InputStreamReader (isr);
+	  BufferedReader br = new BufferedReader (isr) ;
+	  boolean b = br. readLine();
+	      boolean exp = Boolean. pasreInt (boolean) ;
+
+
+
+	   if (i) {
+	       System.out.println("i") ;}
+           else {
+	       System.out.println( "n"); }
+
+
+
+	       }
+	           }

@@ -1,0 +1,25 @@
+import java.io.*;
+ class Shoes{
+	 public static void main(String...args)  throws Exception{
+		  InputStreamReader isr = new InputStreamReader (System.in);
+		  BufferedReader br = new BufferedReader (isr);
+		  System.out.println ("Enter Brand Name");
+		  String brand = br.readLine();
+		  switch (brand){
+			   case "Nike" : System.out.println ("Just do it");
+			                         break;
+                case "Adidas" : System.out.println ("Impossible is nothing");
+				                       break;
+                case "Puma" : System.out.println ("Forever Faster");
+				                       break;
+                case "Reebok"  : System.out.println ("I am what I am" );
+				                        break;
+                default : System.out.println("No brand found");
+		  }
+
+		  
+		
+		  
+		  }
+			 
+ }

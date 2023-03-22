@@ -1,0 +1,18 @@
+ import java.util . * ;
+  
+  class RemoveVowels {
+   public static void main (String...args){
+           
+	   String str ="H";
+	              str = " E" ;
+				  str ="L";
+				  str ="L";
+				  str = "O";
+       
+	     
+	     
+	     System.out.println("str");
+	     }
+
+
+	     }
